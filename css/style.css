@@ -1,0 +1,100 @@
+.navbar {
+    background-color: #000000;
+}
+.nav-item {
+color: whitesmoke;
+
+}
+.nav-item:hover {
+    color:lightgray;
+}
+.navbar-brand {
+    color: whitesmoke;
+}
+
+.navbar-brand:hover {
+    color: lightgray;
+}
+.navbar-right {
+    display: flex;
+    margin-left: auto;
+    text-align: right;
+}
+.jumbotron {
+    display: flex;
+    height: 700px;
+    background-image: url(/Images/Screen\ Shot\ 2019-10-01\ at\ 9.18.36\ PM.png);
+    background-size: cover;
+    
+}
+
+.display-4 {
+    text-align: center;
+}
+
+.lead {
+    text-align: center;
+}
+.viewmywork {
+margin-top: 400px;
+text-align: center;
+}
+.welcome h2 {
+    text-align: center;
+}
+.col-md-8 {
+    min-width: 500px;
+}
+
+
+.card {
+max-width: 80%;
+margin: auto;
+height: 300px;
+}
+.card-img {
+    height: 300px;
+    width: 500px;
+}
+.card-body {
+margin-left: 150px;
+margin-top: 30px;
+}
+
+.aboutme {
+    width: 80%;
+    height: 100%;
+    background-color: lightgray;
+    margin: auto;
+    text-align: center;
+
+}
+
+.aboutme p {
+    color:whitesmoke;
+}
+.w3-circle {
+    width: 20%;
+    text-align: right;
+    margin: 40px;
+
+}
+.footer blockquote {
+    background-color: black;
+    width: 80%;
+    height: 70%;
+    margin: auto;
+    text-align: center;
+
+}
+
+
+.mb-0 {
+    color: whitesmoke;
+    margin-right: auto;
+}
+.blockquote-footer {
+color: lightgray;
+text-align: center;
+    
+}
