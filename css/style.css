@@ -3,7 +3,7 @@
 }
 .nav-item {
 color: whitesmoke;
-
+backdrop-filter: 0;
 }
 .nav-item:hover {
     color:lightgray;
